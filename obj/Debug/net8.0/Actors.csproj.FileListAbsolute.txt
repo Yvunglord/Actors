@@ -1,0 +1,14 @@
+C:\Users\k_yak\source\repos\Actors\obj\Debug\net8.0\Actors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k_yak\source\repos\Actors\obj\Debug\net8.0\Actors.AssemblyInfoInputs.cache
+C:\Users\k_yak\source\repos\Actors\obj\Debug\net8.0\Actors.AssemblyInfo.cs
+C:\Users\k_yak\source\repos\Actors\obj\Debug\net8.0\Actors.csproj.CoreCompileInputs.cache
+C:\Users\k_yak\source\repos\Actors\bin\Debug\net8.0\Actors.exe
+C:\Users\k_yak\source\repos\Actors\bin\Debug\net8.0\Actors.deps.json
+C:\Users\k_yak\source\repos\Actors\bin\Debug\net8.0\Actors.runtimeconfig.json
+C:\Users\k_yak\source\repos\Actors\bin\Debug\net8.0\Actors.dll
+C:\Users\k_yak\source\repos\Actors\bin\Debug\net8.0\Actors.pdb
+C:\Users\k_yak\source\repos\Actors\obj\Debug\net8.0\Actors.dll
+C:\Users\k_yak\source\repos\Actors\obj\Debug\net8.0\refint\Actors.dll
+C:\Users\k_yak\source\repos\Actors\obj\Debug\net8.0\Actors.pdb
+C:\Users\k_yak\source\repos\Actors\obj\Debug\net8.0\Actors.genruntimeconfig.cache
+C:\Users\k_yak\source\repos\Actors\obj\Debug\net8.0\ref\Actors.dll
